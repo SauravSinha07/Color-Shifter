@@ -1,0 +1,38 @@
+.button{
+    border:1px solid black;
+    width:100px;
+    height:100px;
+    justify-content: center;
+    margin: auto;
+}
+#box{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    border:1px solid black;
+    width:750px;
+    height:200px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    margin:auto;
+    margin:13% 0px 1% 0px;;
+}
+h2{
+    text-align: center;
+    margin:auto;
+    margin:5px 0px 10px 0px;
+}
+#violet{
+    background-color:violet;
+}
+#blue{
+    background-color:blue;
+}
+#pink{
+    background-color:pink;
+}
+#grey{
+    background-color:grey;
+}
